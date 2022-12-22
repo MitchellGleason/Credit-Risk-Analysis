@@ -5,8 +5,3 @@ The purpose of this project is to use machine learning and a variety of algorith
 
 # Results
 ### Naive Random Oversampling
-![Figure 1](/Figures/Naive%20Random%20Oversampling/Fig1.png)
-![Figure 2](/Figures/Naive%20Random%20Oversampling/Fig2.png)
-![Figure 3](/Figures/Naive%20Random%20Oversampling/Fig3.png)
-![Figure 4](/Figures/Naive%20Random%20Oversampling/Fig4.png)
-![Figure 5](/Figures/Naive%20Random%20Oversampling/Fig5.png)
