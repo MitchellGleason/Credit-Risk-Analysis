@@ -5,3 +5,19 @@ The purpose of this project is to use machine learning and a variety of algorith
 
 # Results
 ### Naive Random Oversampling
+![Figure 1: Naive Random Oversampling](Figures/Fig1.png)
+
+### SMOTE Oversampling
+![Figure 2: SMOTE Oversampling](Figures/Fig2.png)
+
+### Undersampling: Cluster Centroids
+![Figure 3: Undersampling: Cluster Centroids](Figures/Fig3.png)
+
+### Combination Sampling: SMOTEENN
+![Figure 4: Combination Sampling: SMOTEENN](Figures/Fig4.png)
+
+### Balanced Random Forest Classifier
+![Figure 5: Balanced Random Forest Classifier](Figures/Fig5.png)
+
+### Easy Ensemble AdaBoost Classifier
+![Figure 6: Easy Ensemble AdaBoost Classifier](Figures/Fig6.png)
