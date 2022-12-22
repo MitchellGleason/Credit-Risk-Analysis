@@ -6,18 +6,50 @@ The purpose of this project is to use machine learning and a variety of algorith
 # Results
 ### Naive Random Oversampling
 ![Figure 1: Naive Random Oversampling](Figures/Fig1.png)
+- The balanced accuracy score is 61.7%
+- The precision for high risk is 1%
+- The recall for high risk is 63%
+- The precision for low risk is 100%
+- The recall for low risk is 62%
 
 ### SMOTE Oversampling
 ![Figure 2: SMOTE Oversampling](Figures/Fig2.png)
+- The balanced accuracy score is 62.1%
+- The precision for high risk is 1%
+- The recall for high risk is 54%
+- The precision for low risk is 100%
+- The recall for low risk is 70%
 
 ### Undersampling: Cluster Centroids
 ![Figure 3: Undersampling: Cluster Centroids](Figures/Fig3.png)
+- The balanced accuracy score is 50.6%
+- The precision for high risk is 0%
+- The recall for high risk is 48%
+- The precision for low risk is 100%
+- The recall for low risk is 53%
 
 ### Combination Sampling: SMOTEENN
 ![Figure 4: Combination Sampling: SMOTEENN](Figures/Fig4.png)
+- The balanced accuracy score is 62.7%
+- The precision for high risk is 1%
+- The recall for high risk is 63%
+- The precision for low risk is 100%
+- The recall for low risk is 62%
 
 ### Balanced Random Forest Classifier
 ![Figure 5: Balanced Random Forest Classifier](Figures/Fig5.png)
+- The balanced accuracy score is 78.8%
+- The precision for high risk is 3%
+- The recall for high risk is 70%
+- The precision for low risk is 100%
+- The recall for low risk is 87%
 
 ### Easy Ensemble AdaBoost Classifier
 ![Figure 6: Easy Ensemble AdaBoost Classifier](Figures/Fig6.png)
+- The balanced accuracy score is 93.2%
+- The precision for high risk is 9%
+- The recall for high risk is 92%
+- The precision for low risk is 100%
+- The recall for low risk is 94%
+
+# Summary
