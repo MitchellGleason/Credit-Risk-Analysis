@@ -5,7 +5,12 @@ The purpose of this project is to use machine learning and a variety of algorith
 
 # Results
 ### Naive Random Oversampling
+<details>
+    <summary>Click to expand image</summary>
+
 ![Figure 1: Naive Random Oversampling](Figures/Fig1.png)
+</details>
+
 - The balanced accuracy score is 61.7%
 - The precision for high risk is 1%
 - The recall for high risk is 63%
