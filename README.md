@@ -18,7 +18,12 @@ The purpose of this project is to use machine learning and a variety of algorith
 - The recall for low risk is 62%
 
 ### SMOTE Oversampling
+<details>
+    <summary>Click to expand image</summary>
+
 ![Figure 2: SMOTE Oversampling](Figures/Fig2.png)
+</details>
+
 - The balanced accuracy score is 62.1%
 - The precision for high risk is 1%
 - The recall for high risk is 54%
@@ -26,7 +31,12 @@ The purpose of this project is to use machine learning and a variety of algorith
 - The recall for low risk is 70%
 
 ### Undersampling: Cluster Centroids
+<details>
+    <summary>Click to expand image</summary>
+
 ![Figure 3: Undersampling: Cluster Centroids](Figures/Fig3.png)
+</details>
+
 - The balanced accuracy score is 50.6%
 - The precision for high risk is 0%
 - The recall for high risk is 48%
@@ -34,7 +44,12 @@ The purpose of this project is to use machine learning and a variety of algorith
 - The recall for low risk is 53%
 
 ### Combination Sampling: SMOTEENN
+<details>
+    <summary>Click to expand image</summary>
+
 ![Figure 4: Combination Sampling: SMOTEENN](Figures/Fig4.png)
+</details>
+
 - The balanced accuracy score is 62.7%
 - The precision for high risk is 1%
 - The recall for high risk is 63%
@@ -42,7 +57,12 @@ The purpose of this project is to use machine learning and a variety of algorith
 - The recall for low risk is 62%
 
 ### Balanced Random Forest Classifier
+<details>
+    <summary>Click to expand image</summary>
+
 ![Figure 5: Balanced Random Forest Classifier](Figures/Fig5.png)
+</details>
+
 - The balanced accuracy score is 78.8%
 - The precision for high risk is 3%
 - The recall for high risk is 70%
@@ -50,7 +70,12 @@ The purpose of this project is to use machine learning and a variety of algorith
 - The recall for low risk is 87%
 
 ### Easy Ensemble AdaBoost Classifier
+<details>
+    <summary>Click to expand image</summary>
+
 ![Figure 6: Easy Ensemble AdaBoost Classifier](Figures/Fig6.png)
+</details>
+
 - The balanced accuracy score is 93.2%
 - The precision for high risk is 9%
 - The recall for high risk is 92%
